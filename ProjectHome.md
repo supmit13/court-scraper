@@ -1,0 +1,1 @@
+Bot to retrieve data pertaining to legal cases from "https://www.courts.mo.gov/casenet/cases/searchCases.do?searchType=date"
